@@ -15,3 +15,6 @@ git checkout <branch-name>
 ```
 git fetch
 ```
+
+## Boilerplate-1
+- python -m pip install django-debug-toolbar
